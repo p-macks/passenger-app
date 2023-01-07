@@ -1,0 +1,28 @@
+.app-box{
+    display: block;
+    color: blue;
+    width: 40%;
+    text-align: center;
+    border: 3px solid rgb(22, 6, 139);
+    border-radius: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 20px;
+    cursor: pointer;
+}
+#btn-increment{
+    background-color: rgb(94, 163, 241);
+    color: black;
+    padding: 10px 10px;
+    border-style: none;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
+#btn-save{
+    background-color: #fff;
+    color: rgb(11, 11, 212);
+    padding: 9px 10px;
+    border-style: 2px solid;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
